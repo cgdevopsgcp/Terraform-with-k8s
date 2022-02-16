@@ -4,7 +4,7 @@ resource "kubernetes_service" "example" {
   }
   spec {
     selector = {
-      App = "nginx"
+      test = "MyExampleApp"
     }
     port {
       port        = 80
