@@ -8,7 +8,7 @@ steps:
     title: Cloning main repository...
     stage: checkout
     type: git-clone
-    repo: 'cgdevopsgcp/k8s-practice'
+    repo: 'cgdevopsgcp/Terraform-with-k8s'
     revision: main
     git: github      
   SetupAuth:
