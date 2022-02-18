@@ -1,4 +1,4 @@
-resource "kubernetes_service" "example1" {
+resource "kubernetes_service" "example" {
   metadata {
     name = "example-test"
   }
