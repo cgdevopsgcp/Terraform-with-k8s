@@ -28,6 +28,6 @@ steps:
       - export GCP_SECRET_ACCESS_KEY=$SECRET_KEY
       - terraform init
       - terraform validate
-      - terraform plan --OUT=nginx.txt
+      - terraform plan 
       - terraform apply -auto-approve
       
