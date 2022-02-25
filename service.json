@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "training-project-340810",
+  "private_key_id": "5928c507f317d0385bc8ae085867f852bbb8f383",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClMbgGJMW1Vrqh\nYVnMEbmzaC6NbT7+ZJXCRpnT4FRsTYJOerfvT5E9PIwijYwz1TthqNJZ9nwxbG7l\nYraQf5Py193aRkSzOTP+dr4s+CES8KM5Z6bkFyzAQQoW0wBbjaqenlvulFHPe3Qp\nfALGbDmRU0Z/pxIKqRSZAdH6xD0Pn1Bw0Jm2KZQS2CJHtLgtnw27Aoll28FIOhTT\nCoXYVfeaxMdv/GR/vaIco7wCvSa1SBUuzYVjrJcorNOHcgkXZYJuKT+wK7hLZ639\niOpsAUU9aj4+0cvSqiKVB/eqjdmgp/MWOQNB8hy1Sp8goJHuVaaOJWpA7Dh/JQ8Q\ni0oheBrNAgMBAAECggEAGi07vPV8wtSAdGwpv5WbeJtsrQp/re4gcQ2g+JsWpabO\nnEMD/I7+M9bxWdRWQCxs4XfQBWNyoJ5PIFg5F8Kvng6o4Bq8bi4FWDBWyGd1TjwF\nkWYkYwZtF/X2dFFxQBC91a7AYJjuMdOdP6mgAvNJWAb7J+VAjaHnWquYK4WHK39R\nGR1APbqQmICtkPL0gIo/6LIdecpVGJzV5qNlK1TUmxfuFT289vOZUhggnxuItVCG\nvNnxZg0l+zSSes+7etahu8sCEGRRIu2HWltk5FRxpmWURIKv3JIQ7Ur4D5ncuo/B\nD+HHLHBEQl+YCE/NQgqnEySjDkOkQPm8t745Q1kKfQKBgQDUmYiG1MJxb6dHHZ7m\nlZ/JIDXD1UtdbZHXT24wbm4mf84R9kBMi5eQThd9ZHWcQ7lHRxm3uOYgHJmL/n/7\nm2hcE4rd2jjlsL3ICvdOzwehrMA/lt3S6ozXZiryHSgSyY4fz1ap995lZKDnZGUt\nqG5rIq0hSE2tc9VIAI1SdQIaJwKBgQDG6sWWaxuYyaoJ1nslygUftB2lsYCdwrK6\nmx7Q2QHf2TTZfIADn9QfhTNDABcuISpTZ79I2RS00E7LaHNKVVusDNnxPrrzW/W+\nBA1ysw3aatgGvUb2fAvnCsbmrODzB2eiCIVwIqyI4bAkQEQ6MqDgHiWgI6rUyNpZ\nG4Fn+CG/6wKBgDMMCnQVcfq6zHeO7TCAjLVGPqKe/FGalYIVWGfYnCoyVdCKSDYY\n7nN/zLQXAwZaXIp4z/wFMXxUYanzmddYIV66coWCeFbucSMvPuJ1Y2e2ixK5rtmN\n5/NwXK91wMGCE9YferelBIlj+B6XRJQJ9TlUQi3TppMXVQbM2yIJZk/RAoGAO0Vp\natCvgG9Ww2etei0gKbo5u02QzXFeYEwoeoKvFExcexGl826Efn/qLmSwg4ZOXlvj\nm4lTqi0HzYRqFhQpJLMPndrbSfh02RHMEAlab2K2zAtKQdfklAuaCNIqlT/3mUiA\nulEaqA7XtXWQ3uaHGUDiZT07gfv3U+XmQVymcdECgYEAnllaztMJZ+KRrB4UcFbf\nxQJ6Pge6nGNoVsHluFZzz8GGnAa8yRov6Wx8LEgRf4eDlAVsujiYtOk9zj5Ji2Yk\nEzVGAoO306SkmmR9bQJkNArXDtU92pIrqaAbtzGYZk+XCDLDQsowwCx//7bXn5w3\n6Fkl6dFftb+fgkmCaqJziyE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anz-896@training-project-340810.iam.gserviceaccount.com",
+  "client_id": "101438139092359820077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anz-896%40training-project-340810.iam.gserviceaccount.com"
+}
